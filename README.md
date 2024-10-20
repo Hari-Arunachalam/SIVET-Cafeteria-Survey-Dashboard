@@ -33,7 +33,7 @@ To set up this project locally, follow these steps:
     python Cleaning.py
     ```
 
-4. Open the Tableau dashboard file (`dashboard.twbx`) in Tableau Desktop or Tableau Public to view the visualizations.
+4. Open the Tableau dashboard file (`Survey_Dashboard.twbx`) in Tableau Desktop or Tableau Public to view the visualizations.
 
 ## Tools and Libraries
 
