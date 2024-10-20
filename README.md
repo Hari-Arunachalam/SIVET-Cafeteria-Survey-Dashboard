@@ -32,8 +32,14 @@ To set up this project locally, follow these steps:
     ```bash
     python Cleaning.py
     ```
+    
+4. Run the Python script for word cloud analysis:
 
-4. Open the Tableau dashboard file (`Survey_Dashboard.twbx`) in Tableau Desktop or Tableau Public to view the visualizations.
+    ```bash
+    python word_cloud_analysis.py
+    ```
+    
+5. Open the Tableau dashboard file (`Survey_Dashboard.twbx`) in Tableau Desktop or Tableau Public to view the visualizations.
 
 ## Tools and Libraries
 
